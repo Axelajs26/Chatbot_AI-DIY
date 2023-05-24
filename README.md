@@ -4,3 +4,4 @@ There are several things needed to do this project
 Firstly, a character transcript (or use the one provided here using "Alice Tendou" as character
 There are several website that can help provide transcripts, such as Kaggle
 Currently this project doesn't allow connecting the chatbot to another application or having window pop up interface, but as soon as I got some time, I will update it
+note : I tried to connect the chatbot to Discord through HuggingFace, and the result is quite satisfying, tho it requires adjustment and maintenance from time to time, it's a bit unpractical
